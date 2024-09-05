@@ -99,3 +99,6 @@ footer {
 .weather-forecast-temperature {
   padding: 0 10px;
 }
+.weather-forecast {
+  display: flex;
+}
